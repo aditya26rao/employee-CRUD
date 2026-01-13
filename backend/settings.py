@@ -48,9 +48,6 @@ INSTALLED_APPS = [
     "employees",
     "accounts",
 ]
-INSTALLED_APPS += [
-    "django.contrib.staticfiles",
-]
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
